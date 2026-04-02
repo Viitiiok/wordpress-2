@@ -1,6 +1,6 @@
 # Lucrarea de laborator nr. 3 — Tema WordPress „USM Theme"
 
-**Disciplina:** Tehnologii Web  
+**Disciplina:** CMS
 **Student:** Rusu Victor
 **Grupa:** IA2302
 
